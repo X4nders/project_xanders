@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276907724084",
+    "project_id": "projectxanders",
+    "storage_bucket": "projectxanders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276907724084:android:2338f8550cb65b0a932961",
+        "android_client_info": {
+          "package_name": "com.example.project_xanders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276907724084-ik9jlm537chsoq2cgn79ctob9jq53viv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKXtpuVTOsh_OQn6knLTHs_T_YmzYDJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276907724084-ik9jlm537chsoq2cgn79ctob9jq53viv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
